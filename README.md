@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://readyplayer.me/gallery/63f3bb993cade24b03369631-3gE8lSjpeg" width="100"/>
+  <img src="https://giphy.com/embed/HPu8bxH13Zr1sAHWe3" width="100"/>
 </div>
 
 
